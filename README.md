@@ -1,6 +1,6 @@
 # Crypto Currency Portfolio App With Python3, Tkinter, SQLite3 And CoinMarketCap API
 ## What Is This?
- This is a simple Python application for using and organizing your crypto coins using coinmarketcap API https://coinmarketcap.com/ . The goal of this python app is to store the user's crypto coin data into database. user get all information regarding his/her cryptocoin in this app.
+ This is a  Python application for using and organizing your crypto coins using coinmarketcap API https://coinmarketcap.com/ . The goal of this python app is to store the user's crypto coin data into database. user get all information regarding his/her cryptocoin in this app.
 
 ## How To Use This
 ### for executing this app
